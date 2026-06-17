@@ -1,0 +1,13 @@
+[theme]
+# Latar Belakang (Biru Tua Kehitaman)
+backgroundColor = "#0f111e"
+# Latar Sidebar (Biru Gelap Transparan)
+secondaryBackgroundColor = "#181b2e"
+# Warna Teks (Putih)
+textColor = "#ffffff"
+# Warna Aksen Tombol/Slider (Coklat)
+primaryColor = "#73472a"
+
+# --- TAMBAHAN BARU UNTUK MENGATASI ERROR ---
+[server]
+maxMessageSize = 350  # Menaikkan batas memori menjadi 350 MB
